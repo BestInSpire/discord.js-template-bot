@@ -2,13 +2,13 @@
 export default class {
     constructor(client,{
         name = null,
-		enabled = true,
+	enabled = true,
         description = null,
         usage = null,
-		aliases = new Array(),
-		nsfw = false,
-		developersOnly = false,
-		cooldown = 3000
+	aliases = new Array(),
+	nsfw = false,
+	developersOnly = false,
+	cooldown = 3000
 
     }) {
         this.client = client;
