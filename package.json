@@ -1,8 +1,22 @@
 {
-	"dependencies": {
-		"discord.js": "^12.5.3",
-		"fs": "^0.0.1-security",
-		"humanize-duration": "^3.26.0"
-	},
-	"type": "module"
+  "name": "discord.js-template-bot",
+  "version": "1.0.0",
+  "description": "ES6 using for discord.js template bot.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BestInSpire/discord.js-template-bot.git"
+  },
+  "keywords": [
+    "ES6",
+    "discord.js",
+    "discord"
+  ],
+  "author": "BestInSpire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BestInSpire/discord.js-template-bot/issues"
+  },
+  "homepage": "https://github.com/BestInSpire/discord.js-template-bot#readme",
+  "type": "module"
 }
