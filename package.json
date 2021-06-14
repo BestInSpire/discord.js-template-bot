@@ -12,6 +12,11 @@
     "discord.js",
     "discord"
   ],
+  "dependencies": {
+		"discord.js": "^12.5.3",
+		"fs": "^0.0.1-security",
+		"humanize-duration": "^3.26.0"
+	},
   "author": "BestInSpire",
   "license": "MIT",
   "bugs": {
